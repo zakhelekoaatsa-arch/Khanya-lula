@@ -92,7 +92,7 @@ header {
   height: 100vh;
   /* Very light gradient at top/bottom for nav and button readability, but clear in the middle so your text shows! */
   background: linear-gradient(rgba(0,0,0,0.3) 0%, rgba(0,0,0,0) 20%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.6) 100%),
-              url("imager/63339.jpg") center/cover no-repeat;
+              url("logo.jpg") center/cover no-repeat;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -263,7 +263,7 @@ footer p { margin: 5px 0; }
 </section>
 
 <section id="estate" class="full-width-section">
-  <img src="imager/120217.jpg" alt="Khanya Lula Agricultural Estate" class="estate-image">
+  <img src="IMG-20260330-WA0008.jpg" alt="Khanya Lula Agricultural Estate" class="estate-image">
   <div class="estate-text">
     <h2>A Sustainable Agricultural Estate</h2>
     <p style="max-width: 800px; margin: auto; font-size: 1.1rem;">
